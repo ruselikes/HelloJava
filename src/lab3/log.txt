@@ -1,0 +1,16 @@
+Event 'Console_output called' has occurred!
+Event 'Equality to the particular value' has occurred!
+GIVEN ARRAY FROM FILE:
+[5, 8, 6, 7, 4, 1, 2, 5, 5, 78, 1]
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Event 'Editing value' has occurred!
+Нечетных больше. 6 > 5
